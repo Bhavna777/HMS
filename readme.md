@@ -40,13 +40,13 @@ https://hms-cgh8n084o-bhavna777.vercel.app/
 Clone the project
 
 ```bash
-  git clone https://github.com/Bhavna777/HospitalManagementAPI.git
+  git clone https://github.com/Bhavna777/HMS.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd HospitalManagementAPI
+  cd HMS
 ```
 
 Install dependencies
