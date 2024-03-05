@@ -1,7 +1,7 @@
 # Hospital Management Rest API 
 
 ## Live -
-https://hms-cgh8n084o-bhavna777.vercel.app/ 
+https://hms-bhavna777.vercel.app/
 
 ## Used Technologies - 
 **Node & ExpressJS -**  Node.js and Express.js for their fast, asynchronous nature, enabling scalable handling of concurrent requests. Additionally, the vibrant npm ecosystem streamlines development
